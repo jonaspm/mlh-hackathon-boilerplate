@@ -24,7 +24,7 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Example Hacks | 5/6 August 2016"
+  title:       "HackCUU | 5/6 Mayo 2017"
   description: "This is a sample hackathon website that you can use by following instructions on GitHub."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
@@ -32,8 +32,8 @@ seo:
 event:
   name:        "Example Hacks"
   description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  date:        "5 & 6 August 2016"
-  location:    "Holmdel, NJ, United States"
+  date:        "5 & 6 August 2017"
+  location:    "Chihuahua, Chihuahua, México"
 
   trust_badge:
     year:   "2017"  # season year
@@ -42,16 +42,16 @@ event:
 
   hero:
     links:
-      - text: "Apply"
+      - text: "Regístrate"
         my_mlh:
           client_id:    "0e2f9fc2921d3ad3e12ae900af630d09382e1b3dc1b5b50de2b01b70ad64dbee"
           redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
-      - text: "Sponsor"
+      - text: "Patrocina"
         href: "mailto:sponsorship@website.com"
 
   about:
     description: >
-      Example Hacks is a hackathon hosted at The University of Example.
+      HackCUU es un hackathon para estudiantes con sede en la Universidad Autónoma de Chihuahua.
       This is your opportunity to describe your event, what to expect, where it is & anything unique to your event.
       Keep it straightforward, don't make it too long.
 
@@ -59,46 +59,45 @@ event:
   info:
     sections:
       - image: "images/image1.png"
-        title: "LEARN."
+        title: "APRENDE."
         description: >
           We can write something nice with a graphic (as above) to make the event more appealing.
       - image: "images/image2.png"
-        title: "BUILD."
+        title: "CONSTRUYE."
         description: >
           We can write something nice with a graphic (as above) to make the event more appealing.
       - image: "images/image3.png"
-        title: "SHARE."
+        title: "COMPARTE."
         description: >
           We can write something nice with a graphic (as above) to make the event more appealing.
 
   # Frequently asked questions.
   faq:
-    - question: "What is a hackathon?"
+    - question: "¿Qué es un hackathon?"
       answer: >
-        A hackathon is an invention marathon. Students come together to build cool
-        software & hardware hacks over 24-48 hours. It's [very beginner friendly](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000#.cj21niskl).
-    - question: "How much does it cost?"
+        Un hackathon es un maratón para inventar. Estudiantes se reunen para crear hacks
+        geniales usando software y hardware durante 24 a 48 horas. No importa si eres un hacker profesional o si apenas estás empezando [todos son bienvenidos](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000#.cj21niskl).
+    - question: "¿Cuanto cuesta?"
       answer: >
-        Nothing. Attending a hackathon is free.
-    - question: "Do I need to be a student to attend?"
+        Nada. El evento es completamente gratuito!
+    - question: "¿Necesito ser estudiante para asistir?"
       answer: >
-        Yes. Only students who are currently enrolled at a college/university or
-        have graduated within the past 12 months are eligible to attend.
+        Es corecto. En esta edición sólo si eres estudiante de licenciatura en cualquier semestre o si estás en tu 5to o 6to semestre de preparatoria.
     - question: "Where is the event?"
       answer: >
         The event is being hosted at [insert venue location here].
-    - question: "What is Major League Hacking?"
+    - question: "¿Qué es Major League Hacking?"
       answer: >
-        Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
+        Major League Hacking es [la liga oficial de hackathones](https://mlh.io) en América del Norte y Europa.
         We work with over 200 Member Events and empower over 70,000 students every year.
-    - question: "Is there a code of conduct?"
+    - question: "¿Existe un código de conducta?"
       answer: >
-        Yes there is. We enforce it very strongly. You can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
+        Definitivamente. We enforce it very strongly. La puedes [encontrar aqui](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
 
   # This is the message you'll receive once you've registered.
   register:
     message: >
-      You'll receive more information closer to the hackathon.
+      Recibirás más información cuando la fecha esté cerca. :)
 
 # ----------------------------------------------------
 # -- Ignore this unless you know what you're doing. --
