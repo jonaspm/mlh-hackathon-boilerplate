@@ -24,7 +24,7 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "HackCUU | 5/6 Mayo 2017"
+  title:       "HackCUU | 19/21 Mayo 2017"
   description: "This is a sample hackathon website that you can use by following instructions on GitHub."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
@@ -75,24 +75,30 @@ event:
   faq:
     - question: "¿Qué es un hackathon?"
       answer: >
-        Un hackathon es un maratón para inventar. Estudiantes se reunen para crear hacks
+        Un hackathon es un maratón para inventar. Estudiantes se reunen para desarrollar soluciones
         geniales usando software y hardware durante 24 a 48 horas. No importa si eres un hacker profesional o si apenas estás empezando [todos son bienvenidos](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000#.cj21niskl).
     - question: "¿Cuanto cuesta?"
       answer: >
         Nada. El evento es completamente gratuito!
+    - question: "¿Qué debo llevar?"
+      answer: >
+        Todo lo que necesites para desarrollar tu idea! Desde tu computadora y gadgets, hasta tu oso de peluche!
+    - question: "¿Habrá café y galletas?"
+      answer: >
+        Si! Tendremos un coffe break permanente, así como comidas para todos los participantes. No dejaremos que tengas el estómago vacío!
     - question: "¿Necesito ser estudiante para asistir?"
       answer: >
-        Es corecto. En esta edición sólo si eres estudiante de licenciatura en cualquier semestre o si estás en tu 5to o 6to semestre de preparatoria.
-    - question: "Where is the event?"
+        Es correcto. Sólo si eres estudiante de licenciatura o si estás en tu 5to o 6to semestre de preparatoria.
+    - question: "¿Dónde es el evento?"
       answer: >
-        The event is being hosted at [insert venue location here].
+        En esta edición la sede será en Seminarios de Contaduría y Administración de la Universidad Autónoma de Chihuahua.
     - question: "¿Qué es Major League Hacking?"
       answer: >
         Major League Hacking es [la liga oficial de hackathones](https://mlh.io) en América del Norte y Europa.
-        We work with over 200 Member Events and empower over 70,000 students every year.
+        Trabajamos con larededor de 200 Eventos Miembros y empoderamos a más de 70,000 estudiantes cada año.
     - question: "¿Existe un código de conducta?"
       answer: >
-        Definitivamente. We enforce it very strongly. La puedes [encontrar aqui](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
+        Definitivamente. Es parte fundamental del proyecto. La puedes [encontrar aqui](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
 
   # This is the message you'll receive once you've registered.
   register:
