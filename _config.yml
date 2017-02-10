@@ -61,15 +61,15 @@ event:
       - image: "images/image1.png"
         title: "APRENDE."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          Desarrolla tus habilidades como hacker del siglo 21. Siempre hay algo que aprender de los demás.
       - image: "images/image2.png"
         title: "CONSTRUYE."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          Convierte una idea en un producto. Convierte el producto en oportunidades. Convierte las oportunidades en éxito.
       - image: "images/image3.png"
         title: "COMPARTE."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          Comparte tu conocimiento con otros hackers y los demás compartirán el suyo contigo.
 
   # Frequently asked questions.
   faq:
