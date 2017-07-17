@@ -69,11 +69,6 @@ event:
         title: "COMPARTE."
         description: >
           Comparte tu conocimiento con otros hackers y los demás compartirán el suyo contigo.
-  # Frequently asked questions.
-  Patrocinadores:
-    sections:
-      - image: "images/image1.png"
-        title: "APRENDE."
 
   # Frequently asked questions.
   faq:
@@ -103,6 +98,9 @@ event:
     - question: "¿Existe un código de conducta?"
       answer: >
         Definitivamente. Es parte fundamental del evento. La puedes [encontrar aqui](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
+    - question: "¿Quién Patrocina?"
+      answer: >
+        La lista incluye: Nearsoft.
 
   # This is the message you'll receive once you've registered.
   register:
