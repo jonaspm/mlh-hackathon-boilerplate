@@ -95,7 +95,7 @@ event:
         Es correcto. Sólo si eres estudiante de licenciatura o si estás en tu 5to o 6to semestre de preparatoria.
     - question: "¿Dónde es el evento?"
       answer: >
-        Este año la sede es Seminarios de Ingeniería de la Universidad Autónoma de Chihuahua Campus II. [Aquí]() la Ubicación.
+        Este año la sede es Seminarios de Ingeniería de la Universidad Autónoma de Chihuahua Campus II. [Aquí](https://binged.it/2tjRFPd) la Ubicación.
     - question: "¿Qué es Major League Hacking?"
       answer: >
         Major League Hacking es [la liga oficial de hackathones](https://mlh.io) en América del Norte y Europa.
