@@ -24,7 +24,7 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "HackCUU | 19/21 Mayo 2017"
+  title:       "HackCUU | 1/3 Septiembre 2017"
   description: "Hackeando el futuro del mundo."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
@@ -32,12 +32,12 @@ seo:
 event:
   name:        "HackCUU"
   description: "Hackeando el futuro del mundo."
-  date:        "19 - 21 Mayo 2017"
+  date:        "1 - 3 Septiembre 2017"
   location:    "Chihuahua, Chihuahua, México"
 
   trust_badge:
     year:   "2017"  # season year
-    region: "eu"    # "na" or "eu"
+    region: "na"    # "na" or "eu"
     color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:
