@@ -108,11 +108,11 @@ event:
   sponsorship:
     sponsors:
       - image: "images/NS.png"
-      url: "https://nearsoft.com"
+        url: "https://nearsoft.com"
       - image: "images/fing.png"
-      url: "http://fing.uach.mx"
+        url: "http://fing.uach.mx"
       - image: "images/mlhmini.png"
-      url: "https://mlh.io"
+        url: "https://mlh.io"
 
 # ----------------------------------------------------
 # -- Ignore this unless you know what you're doing. --
