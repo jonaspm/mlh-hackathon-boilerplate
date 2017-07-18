@@ -212,6 +212,10 @@ section {
   width: 300px;
 }
 
+.faq .spons {
+  width: 100px;
+}
+
 /*
  * Footer Section
  */
@@ -254,8 +258,5 @@ section {
   .hero hr {
     border-top-width: 8px;
     top: -8px;
-  }
-  .spons {
-    width: 100px;
   }
 }
