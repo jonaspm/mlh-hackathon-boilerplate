@@ -98,14 +98,21 @@ event:
     - question: "¿Existe un código de conducta?"
       answer: >
         Definitivamente. Es parte fundamental del evento. La puedes [encontrar aqui](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
-    - question: "¿Quién Patrocina?"
-      answer: >
-        La lista incluye: <br><img class="spons" src="images/NS.png"><img class="spons" src="images/fing.png"><img class="spons" src="images/mlhmini.png">
 
   # This is the message you'll receive once you've registered.
   register:
     message: >
       Recibirás más información cuando la fecha esté cerca. :)
+
+  #sponsors
+  sponsorship:
+    sponsors:
+      - image: "images/NS.png"
+      url: "https://nearsoft.com"
+      - image: "images/fing.png"
+      url: "http://fing.uach.mx"
+      - image: "images/mlhmini.png"
+      url: "https://mlh.io"
 
 # ----------------------------------------------------
 # -- Ignore this unless you know what you're doing. --
