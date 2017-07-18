@@ -44,7 +44,7 @@ event:
     links:
       - text: "Regístrate"
         my_mlh:
-          client_id:    "0e2f9fc2921d3ad3e12ae900af630d09382e1b3dc1b5b50de2b01b70ad64dbee"
+          client_id:    "eeabb6dbc06b42d748f4a3dae178e55bd64d845123e621e6d623b83a2e060e7a"
           redirect_uri: "https://jonaspm.github.io/mlh-hackcuu-website/success.html"
       - text: "Patrocina"
         href: "mailto:jonaspm_99@outlook.com"
