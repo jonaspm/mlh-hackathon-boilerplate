@@ -114,11 +114,13 @@ event:
   sponsorship:
     sponsors:
       - image: "images/NS.png"
-        url: "https://nearsoft.com"
+        url: "http://nearsoftjobs.com"
       - image: "images/fing.png"
         url: "http://fing.uach.mx"
       - image: "images/mlhmini.png"
         url: "https://mlh.io"
+      - image: "https://ftp3.syscom.mx/usuarios/fotos/syscom_logo.svg",
+        url: "https://www.syscom.mx/"
 
 # ----------------------------------------------------
 # -- Ignore this unless you know what you're doing. --
