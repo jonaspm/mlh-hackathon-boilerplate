@@ -119,7 +119,7 @@ event:
         url: "http://fing.uach.mx"
       - image: "images/mlhmini.png"
         url: "https://mlh.io"
-      - image: "https://ftp3.syscom.mx/usuarios/fotos/syscom_logo.svg",
+      - image: "https://ftp3.syscom.mx/usuarios/fotos/syscom_logo.svg"
         url: "https://www.syscom.mx/"
 
 # ----------------------------------------------------
