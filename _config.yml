@@ -51,7 +51,7 @@ event:
 
   about:
     description: >
-      HackCUU es un hackathon para estudiantes con sede en la Universidad Autónoma de Chihuahua.
+      HackCUU es un maratón de hacking (hackathon) para estudiantes con sede en la Universidad Autónoma de Chihuahua.
       Aqui encontrarás el espacio y el tiempo para desarrollar en equipo una idea, convertirla en un prototipo y ganar relaciones, experiencia y reconocimiento!
 
   # Info Sections
@@ -88,6 +88,12 @@ event:
     - question: "¿Necesito ser estudiante para asistir?"
       answer: >
         Es correcto. Sólo si eres estudiante de licenciatura o si estás en tu 5to o 6to semestre de preparatoria.
+    - question: "¿De cuantos integrantes los equipos?"
+      answer: >
+        Mínimo 1 y máximo 5.
+    - question: "¿A quién vamos a hackear?"
+      answer: >
+        A nadie! Al decir "Hacking" nos referimos a desarrollar y programar!
     - question: "¿Dónde es el evento?"
       answer: >
         Este año la sede es Seminarios de Ingeniería de la Universidad Autónoma de Chihuahua Campus II. [Aquí](https://binged.it/2tjRFPd) la Ubicación.
@@ -108,7 +114,7 @@ event:
   sponsorship:
     sponsors:
       - image: "images/NS.png"
-        url: "https://nearsoft.com"
+        url: "http://nearsoftjobs.com"
       - image: "images/fing.png"
         url: "http://fing.uach.mx"
       - image: "images/mlhmini.png"
@@ -119,6 +125,8 @@ event:
         url: "http://www.bambucode.com/"
       - image: "http://www.madata.com/wp-content/uploads/2017/06/madatait.png"
         url: "http://www.madata.com"
+      - image: "https://ftp3.syscom.mx/usuarios/fotos/syscom_logo.svg"
+        url: "https://www.syscom.mx/"
 
 # ----------------------------------------------------
 # -- Ignore this unless you know what you're doing. --
