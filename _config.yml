@@ -113,6 +113,10 @@ event:
         url: "http://fing.uach.mx"
       - image: "images/mlhmini.png"
         url: "https://mlh.io"
+      - image: "images/bl.png"
+        url: "http://www.blacklabs.mx"
+      - image: "http://www.madata.com/wp-content/uploads/2017/06/madatait.png"
+        url: "http://www.madata.com"
 
 # ----------------------------------------------------
 # -- Ignore this unless you know what you're doing. --
