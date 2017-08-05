@@ -129,6 +129,7 @@ event:
         url: "https://www.syscom.mx/"
       - image: "https://lanix.com/img/logot.svg"
         url: "https://lanix.com/"
+        background: "black"
 
 # ----------------------------------------------------
 # -- Ignore this unless you know what you're doing. --
