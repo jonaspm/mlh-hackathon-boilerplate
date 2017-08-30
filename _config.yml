@@ -92,6 +92,9 @@ event:
     - question: "¿De cuantos integrantes los equipos?"
       answer: >
         Mínimo 1 y máximo 5.
+    - question: "¿Puedo quedarme a dormir?"
+      answer: >
+        ¡Por su puesto! No olvides tu sleeping bag y las almohadas que necesites!
     - question: "¿A quién vamos a hackear?"
       answer: >
         A nadie! Al decir "Hacking" nos referimos a desarrollar y programar!
