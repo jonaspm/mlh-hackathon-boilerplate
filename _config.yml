@@ -123,7 +123,7 @@ event:
         url: "http://fing.uach.mx"
       - image: "images/mlhmini.png"
         url: "https://mlh.io"
-      - image: "images/bl.png"
+      - image: "images/bl_w.png"
         url: "http://www.blacklabs.mx"
       - image: "http://www.bambucode.com/img/bambucode.png"
         url: "http://www.bambucode.com/"
