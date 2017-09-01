@@ -139,6 +139,8 @@ event:
         background: "black"
       - image: "images/honeywell.jpg"
         url: "https://www.honeywell.com/"
+      - image: "images/uhub.png"
+        url: "https://facebook.com/uhub.mx"
 
 # ----------------------------------------------------
 # -- Ignore this unless you know what you're doing. --
