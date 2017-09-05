@@ -139,6 +139,28 @@ event:
       - image: "images/uhub.png"
         url: "https://facebook.com/uhub.mx"
 
+  #sponsors
+  organizer:
+    team:
+      - image: "images/jonas.png"
+        name: "Jonás Perusquía Morales"
+        position: "Lead Organizer"
+      - image: "images/david.png"
+        name: "David Duarte Anaya"
+        position: "Marketing Leader"
+      - image: "images/luis.png"
+        name: "Luis Felipe Grijalva Pérez"
+        position: "Assistant"
+      - image: "images/hector.png"
+        name: "Hector Quiñones Barrios"
+        position: "Logistics Leader"
+      - image: "images/sergio.png"
+        name: "Sergio Luna Fierro"
+        position: "Assistant"
+      - image: "images/placeholder.png"
+        name: "Irma Alicia Aguilar"
+        position: "Finance Leader"
+
 # ----------------------------------------------------
 # -- Ignore this unless you know what you're doing. --
 # ----------------------------------------------------
