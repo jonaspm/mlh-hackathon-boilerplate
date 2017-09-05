@@ -64,9 +64,11 @@ layout: default
     <h1 class="text-center">Organizadores</h1>
     <div class="col-xs-12 col-sm-10 col-sm-offset-1 text-center">
       {% for org in site.event.organizer.team %}
-        <legend>{{ org.position }}</legend>
-        <img class="spons" src="{{ org.image }}"/>
-        <legend>{{ org.name }}</legend>
+        <div style="display: inline-block">
+          <legend>{{ org.position }}</legend>
+          <img class="spons" src="{{ org.image }}"/>
+          <legend>{{ org.name }}</legend>
+        </div>
       {% endfor %}
     </div>
   </div>

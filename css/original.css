@@ -247,6 +247,10 @@ section {
 .menu {
   text-align: center;
   font-size: medium;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-right: 10rem;
 }
 
 .menu a {
