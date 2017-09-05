@@ -157,8 +157,8 @@ event:
       - image: "images/sergio.png"
         name: "Sergio Luna Fierro"
         position: "Assistant"
-      - image: "images/placeholder.png"
-        name: "Irma Alicia Aguilar"
+      - image: "images/aly.png"
+        name: "Irma Alicia Aguilar Rivera"
         position: "Finance Leader"
 
 # ----------------------------------------------------
