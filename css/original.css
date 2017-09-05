@@ -281,3 +281,8 @@ section {
     top: -8px;
   }
 }
+
+.org {
+  display: inline-block;
+  margin: 0 5rem;
+}

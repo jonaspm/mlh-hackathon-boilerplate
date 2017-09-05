@@ -46,7 +46,7 @@ layout: default
   </div>
 </section>
 
-<section class="about" id="sponsors">
+<section class="info" id="sponsors">
   <div class="container">
     <h1 class="text-center">Sponsors</h1>
     <div class="col-xs-12 col-sm-10 col-sm-offset-1 text-center">
@@ -59,12 +59,12 @@ layout: default
   </div>
 </section>
 
-<section class="about" id="organizers">
+<section class="info" id="organizers">
   <div class="container">
     <h1 class="text-center">Organizadores</h1>
     <div class="col-xs-12 col-sm-10 col-sm-offset-1 text-center">
       {% for org in site.event.organizer.team %}
-        <div style="display: inline-block; margin: 0 5rem;">
+        <div class="org">
           <legend>{{ org.position }}</legend>
           <img class="spons" src="{{ org.image }}"/>
           <legend>{{ org.name }}</legend>
