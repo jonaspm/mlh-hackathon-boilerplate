@@ -254,10 +254,10 @@ section {
 }
 
 .menu a {
-  background: black;
+  background: #0F2C34;
   border-radius: 50px;
   padding: 10px;
-  color: gainsboro;
+  color: white;
 }
 
 @media(max-width: 768px) {
