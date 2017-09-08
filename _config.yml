@@ -138,6 +138,8 @@ event:
         url: "https://www.honeywell.com/"
       - image: "images/uhub.png"
         url: "https://facebook.com/uhub.mx"
+      - image: "images/exosfera.png"
+        url: "http://exosfera.com/"
 
   #sponsors
   organizer:
