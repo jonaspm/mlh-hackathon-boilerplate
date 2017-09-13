@@ -52,7 +52,7 @@ event:
 
   about:
     description: >
-      HackCUU es un maratón de hacking (hackathon) para estudiantes con sede en la Universidad Autónoma de Chihuahua.
+      HackCUU es un maratón de hacking (hackathon) para estudiantes o recién egresados con sede en la Universidad Autónoma de Chihuahua.
       Aqui encontrarás el espacio y el tiempo para desarrollar en equipo una idea, convertirla en un prototipo y ganar relaciones, experiencia y reconocimiento!
 
   # Info Sections
@@ -82,7 +82,7 @@ event:
         ¡Nada! El evento es completamente gratuito!
     - question: "¿Qué debo llevar?"
       answer: >
-        Credencial de Estudiante o Constancia. Y todo lo que necesites para desarrollar tu idea! Desde tu computadora y gadgets, hasta tu oso de peluche!
+        Credencial de Estudiante, Constancia o Último pago de semestre. Y todo lo que necesites para desarrollar tu idea! Desde tu computadora y gadgets, hasta tu oso de peluche!
     - question: "¿Habrá café y galletas?"
       answer: >
         ¡Si! Tendremos un coffe break permanente, así como comidas para todos los participantes. No dejaremos que tengas el estómago vacío!
