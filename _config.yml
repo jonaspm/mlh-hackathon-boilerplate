@@ -127,8 +127,6 @@ event:
         url: "http://www.blacklabs.mx"
       - image: "http://www.bambucode.com/img/bambucode.png"
         url: "http://www.bambucode.com/"
-      - image: "http://www.madata.com/wp-content/uploads/2017/06/madatait.png"
-        url: "http://www.madata.com"
       - image: "https://ftp3.syscom.mx/usuarios/fotos/syscom_logo.svg"
         url: "https://www.syscom.mx/"
       - image: "images/logo_elite.png"
