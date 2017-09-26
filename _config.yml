@@ -138,6 +138,10 @@ event:
         url: "https://facebook.com/uhub.mx"
       - image: "images/exosfera.png"
         url: "http://exosfera.com/"
+      - image: "images/alphacenit.png"
+        url: "http://alphacenit.com/"
+      - image: "images/hackerearth.png"
+        url: "https://hackerearth.com"
 
   #sponsors
   organizer:
