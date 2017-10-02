@@ -23,6 +23,7 @@
 
 body {
   background-color: #81BEF7;
+  scroll-behavior: smooth;
 }
 
 section {
