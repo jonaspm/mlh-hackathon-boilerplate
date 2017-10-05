@@ -141,6 +141,8 @@ event:
         url: "http://alphacenit.com/"
       - image: "images/hackerearth.png"
         url: "https://hackerearth.com"
+      - image: "images/skywatch.png"
+        url: "https://www.skywatch.co"
 
   #sponsors
   organizer:
