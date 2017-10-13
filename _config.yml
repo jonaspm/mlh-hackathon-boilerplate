@@ -143,6 +143,10 @@ event:
         url: "https://hackerearth.com"
       - image: "images/skywatch.png"
         url: "https://www.skywatch.co"
+      - image: "images/lagoDiComo.png"
+        url: "http://lagodicomo.com.mx/principal/"
+      - image: "images/ochoa.jpg"
+        url: "https://www.facebook.com/PapitasOchoa/"
 
   #sponsors
   organizer:
@@ -167,6 +171,9 @@ event:
         position: "Finance Leader"
       - image: "images/tony.png"
         name: "Jesús Antonio Díaz Franco"
+        position: "Assistant"
+      - image: "images/placeholder.png"
+        name: "Samantha Paola Quiroz Cruz"
         position: "Assistant"
 
 # ----------------------------------------------------
