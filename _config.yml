@@ -83,6 +83,9 @@ event:
     - question: "¿Qué debo llevar?"
       answer: >
         Credencial de Estudiante, Constancia o Último pago de semestre. Y todo lo que necesites para desarrollar tu idea! Desde tu computadora y gadgets, hasta tu oso de peluche!
+    - question: "Soy menor de edad"
+      answer: >
+        Si eres menor de edad, requerimos que tus padres llenen esta [Carta Responsiva](/docs/CARTA RESPONSIVA.pdf) y nos la envíes vía correo o de manera presencial el día del evento.
     - question: "¿Habrá café y galletas?"
       answer: >
         ¡Si! Tendremos un coffe break permanente, así como comidas para todos los participantes. No dejaremos que tengas el estómago vacío!
