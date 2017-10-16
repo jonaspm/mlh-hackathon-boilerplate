@@ -128,7 +128,7 @@ event:
         url: "https://mlh.io"
       - image: "images/bl_w.png"
         url: "http://www.blacklabs.mx"
-      - image: "http://www.bambucode.com/img/bambucode.png"
+      - image: "images/bambucode.png"
         url: "http://www.bambucode.com/"
       - image: "https://ftp3.syscom.mx/usuarios/fotos/syscom_logo.svg"
         url: "https://www.syscom.mx/"
