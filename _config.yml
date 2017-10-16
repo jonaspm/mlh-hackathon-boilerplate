@@ -150,6 +150,10 @@ event:
         url: "http://lagodicomo.com.mx/principal/"
       - image: "images/ochoa.jpg"
         url: "https://www.facebook.com/PapitasOchoa/"
+      - image: "images/mixen.png"
+        url: "http://mixen.mx/site/"
+      - image: "images/ole.png"
+        url: "http://www.cafeole.com.mx/"
 
   #sponsors
   organizer:
