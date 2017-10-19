@@ -170,7 +170,7 @@ event:
       - image: "images/hector.png"
         name: "Hector Quiñones Barrios"
         position: "Logistics Leader"
-      - image: "images/placeholder.png"
+      - image: "images/samantha.png"
         name: "Samantha Paola Quiroz Cruz"
         position: "Assistant"
       - image: "images/luis.png"
