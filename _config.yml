@@ -154,6 +154,8 @@ event:
         url: "http://mixen.mx/site/"
       - image: "images/ole.png"
         url: "http://www.cafeole.com.mx/"
+      - image: "images/pp.jpg"
+        url: "https://www.facebook.com/pancakeparadise"
 
   #sponsors
   organizer:
